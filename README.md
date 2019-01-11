@@ -121,3 +121,8 @@ app 下载链接：[http://www.wandoujia.com/apps/com.meiriyiwen.app](http://www
 app 下载链接：[http://www.wandoujia.com/apps/com.androidesk](http://www.wandoujia.com/apps/com.androidesk)
 
 ## [360壁纸：API 链接](./360wallpaper.md)
+
+## [36氪: API 链接](./36Kr(newsflash).md)
+![](https://i.imgur.com/DBmkI8t.png)
+
+app 下载链接：[https://download.36kr.com/](https://download.36kr.com/)
